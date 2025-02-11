@@ -36,7 +36,7 @@ const GearUpSection = () => (
       <div className="w-80 h-auto flex flex-col items-center">
         <Image src={image5} alt="Nike Dry-FIT ADV Techknit" width={300} height={300} />
         <p className="font-bold text-center">Nike Dry-FIT ADV Techknit &#8377; 3 895</p>
-        <p className="text-[#757575] text-center">Men's short-sleeve</p>
+        <p className="text-[#757575] text-center">Men&apos;s short-sleeve</p>
         <p className="text-[#757575] text-center">Running Top</p>
       </div>
 
@@ -49,14 +49,14 @@ const GearUpSection = () => (
       <div className="w-80 h-auto flex flex-col items-center">
         <Image src={image7} alt="Nike Dry-FIT ADV Run Division" width={300} height={300} />
         <p className="font-bold text-center">Nike Dry-FIT ADV Run Division &#8377; 5 295</p>
-        <p className="text-[#757575] text-center">Women's long sleeve</p>
+        <p className="text-[#757575] text-center">Women&apos;s long sleeve</p>
         <p className="text-[#757575] text-center">Running Top</p>
       </div>
 
       <div className="w-80 h-auto flex flex-col items-center">
         <Image src={image8} alt="Nike Fast" width={300} height={300} />
         <p className="font-bold text-center">Nike Fast &#8377; 3 795</p>
-        <p className="text-[#757575] text-center">Women's mid rise 7/8 running</p>
+        <p className="text-[#757575] text-center">Women&apos;s mid rise 7/8 running</p>
         <p className="text-[#757575] text-center">Legging with pockets</p>
       </div>
     </div>

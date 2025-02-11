@@ -68,17 +68,17 @@ const Hero = () => {
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image1} alt="image" width={400} height={400} />
           <p className="font-bold text-center">Nike Air Max Pulse &#8377; 13 995</p>
-          <p className="text-[#757575] text-center">Women's Shoes</p>
+          <p className="text-[#757575] text-center">Women&apos;s Shoes</p>
         </div>
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image2} alt="image" width={400} height={400} />
           <p className="font-bold text-center">Nike Air Max Pulse &#8377; 13 995.00</p>
-          <p className="text-[#757575] text-center">Men's Shoes</p>
+          <p className="text-[#757575] text-center">Men&apos;s Shoes</p>
         </div>
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image3} alt="image" width={400} height={400} />
           <p className="font-bold text-center">Nike Air Max 97 SE &#8377; 16 995.00</p>
-          <p className="text-[#757575] text-center">Men's Shoes</p>
+          <p className="text-[#757575] text-center">Men&apos;s Shoes</p>
         </div>
       </div>
 
@@ -129,7 +129,7 @@ const Hero = () => {
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image5} alt="image" width={300} height={300} />
           <p className="font-bold text-center">Nike Dry-FIT ADV Techknit &#8377; 3 895</p>
-          <p className="text-[#757575] text-center">Men's short-sleeve</p>
+          <p className="text-[#757575] text-center">Men&apos;s short-sleeve</p>
           <p className="text-[#757575] text-center">Running Top</p>
         </div>
         <div className="w-80 h-auto flex flex-col items-center">
@@ -140,13 +140,13 @@ const Hero = () => {
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image7} alt="image" width={300} height={300} />
           <p className="font-bold text-center">Nike Dry-FITADV Run division &#8377; 5 295</p>
-          <p className="text-[#757575] text-center">Women's long sleeve</p>
+          <p className="text-[#757575] text-center">Women&apos;s long sleeve</p>
           <p className="text-[#757575] text-center">Running top</p>
         </div>
         <div className="w-80 h-auto flex flex-col items-center">
           <Image src={image8} alt="image" width={300} height={300} />
           <p className="font-bold text-center">Nike fast &#8377; 3 795</p>
-          <p className="text-[#757575] text-center">Women's mid rise 7/8 running</p>
+          <p className="text-[#757575] text-center">Women&apos;s mid rise 7/8 running</p>
           <p className="text-[#757575] text-center">Legging with pockets</p>
         </div>
       </div>
@@ -158,7 +158,7 @@ const Hero = () => {
                                       {/* next part, Dont miss */}
 
       <div className="mt-24 ml-12">
-        <h1 className="font-semibold">Don't Miss</h1>
+        <h1 className="font-semibold">Do&apos;t Miss</h1>
       </div>
       <div>
         <Image src={image9} alt="image" width={1344} height={500} className="w-[375px] h-[300px] md:w-full md:h-[500px] object-cover" />
@@ -166,7 +166,7 @@ const Hero = () => {
 
       <div className="justify-items-center mt-12 text-center">
         <h1 className="font-semibold text-4xl">FLIGHT ESSENTIALS</h1>
-        <h3 className="mt-6 font-semibold">Your built-to-last, all week wear-but with style only Jordon brand can deliver</h3>
+        <h3 className="mt-6 font-semibold">Your built-to-last&apos; all week wear-but with style only Jordon brand can deliver</h3>
         <button className="bg-black text-white font-semibold w-20 h-6 rounded-full mt-8">Shop</button>
       </div>
 
@@ -182,11 +182,11 @@ const Hero = () => {
       <div className="flex flex-wrap justify-center gap-4">
         <div className="relative w-80">
           <Image src={image10} alt="image" width={440} height={440} className="w-full h-full object-cover" />
-          <button className="bg-white w-16 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Men's</button>
+          <button className="bg-white w-16 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Men&apos;s</button>
         </div>
         <div className="relative w-80">
           <Image src={image11} alt="image" width={440} height={440} className="w-full h-full object-cover" />
-          <button className="bg-white w-20 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Women's</button>
+          <button className="bg-white w-20 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Women&apos;s</button>
         </div>
         <div className="relative w-80">
           <Image src={image12} alt="image" width={440} height={440} className="w-full h-full object-cover" />
@@ -217,11 +217,11 @@ const Hero = () => {
           <h3>Shirts & tops</h3>
         </div>
         <div>
-          <h1 className="font-semibold">Kid's</h1>
+          <h1 className="font-semibold">Kid&opas;s</h1>
           <h3>Infant & toddler shoes</h3>
-          <h3>Kid's Shoes</h3>
-          <h3>Kid's Jordon Shoes</h3>
-          <h3>Kid's basketball Shoes</h3>
+          <h3>Kid&apos;s Shoes</h3>
+          <h3>Kid&apos;s Jordon Shoes</h3>
+          <h3>Kid&apos;s basketball Shoes</h3>
         </div>
       </div>
 

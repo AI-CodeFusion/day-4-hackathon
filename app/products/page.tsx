@@ -131,7 +131,6 @@ import { client } from '@/sanity/lib/client';
 import { urlFor } from '@/sanity/lib/image';
 import Link from 'next/link';
 import { addToCart } from '../action/action';
-import { title } from 'process';
 import Swal from 'sweetalert2';
 
 

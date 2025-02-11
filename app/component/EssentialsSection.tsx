@@ -13,11 +13,11 @@ export default function EssentialsSection() {
       <div className="flex flex-wrap justify-center gap-4">
         <div className="relative w-80">
           <Image src={image10} alt="image" width={440} height={440} className="w-full h-full object-cover" />
-          <button className="bg-white w-16 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Men's</button>
+          <button className="bg-white w-16 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Men&apos;s</button>
         </div>
         <div className="relative w-80">
           <Image src={image11} alt="image" width={440} height={440} className="w-full h-full object-cover" />
-          <button className="bg-white w-20 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Women's</button>
+          <button className="bg-white w-20 h-5 absolute bottom-10 left-10 rounded-full font-semibold">Women&apos;s</button>
         </div>
         <div className="relative w-80">
           <Image src={image12} alt="image" width={440} height={440} className="w-full h-full object-cover" />
@@ -48,11 +48,11 @@ export default function EssentialsSection() {
           <h3>Shirts & tops</h3>
         </div>
         <div>
-          <h1 className="font-semibold">Kid's</h1>
+          <h1 className="font-semibold">Kid&apos;s</h1>
           <h3>Infant & toddler shoes</h3>
-          <h3>Kid's Shoes</h3>
-          <h3>Kid's Jordon Shoes</h3>
-          <h3>Kid's basketball Shoes</h3>
+          <h3>Kid&apos;s Shoes</h3>
+          <h3>Kid&apos;s Jordon Shoes</h3>
+          <h3>Kid&apos;s basketball Shoes</h3>
         </div>
       </div>
 

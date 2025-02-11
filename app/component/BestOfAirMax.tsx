@@ -2,7 +2,6 @@
 
 import {client} from "@/sanity/lib/client";
 import { urlFor } from "@/sanity/lib/image";
-import { allProducts, three } from "@/sanity/lib/queries";
 import {Product} from "@/types/products";
 import Image from 'next/image';
 import React,{useEffect, useState} from 'react';

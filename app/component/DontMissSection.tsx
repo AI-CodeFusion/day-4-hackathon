@@ -4,11 +4,11 @@ import image9 from '../images/Image (8).png';
 
 const DontMissSection = () => (
   <div className="w-full m-20">
-    <h1 className="text-center font-bold text-2xl sm:text-3xl">Don’t Miss</h1>
+    <h1 className="text-center font-bold text-2xl sm:text-3xl">Don&apos;t Miss</h1>
     <div className="relative mt-6">
       <Image
         src={image9}
-        alt="Don't Miss Promo"
+        alt="Don&apos;t Miss Promo"
         className="w-full h-auto rounded-lg"
       />
       <div className="absolute bottom-8 left-8 text-white">
